@@ -14,3 +14,28 @@
     #import <UIKit/UIKit.h>
     #import <Foundation/Foundation.h>
 #endif
+
+// Constants for service types
+#define ST_ACT_OF_KINDNESS 1
+#define ST_ADVOCACY 2
+#define ST_ARTS_AND_CRAFTS 3
+#define ST_AWARENESS 4
+#define ST_BEAUTIFICATION 5
+#define ST_CLEAN_UP 6
+#define ST_CLOTHING_DRIVE 7
+#define ST_DISASTER_ASSISTANCE 8
+#define ST_DISCUSSION_GROUP 9
+#define ST_EDUCATION 10
+#define ST_EMERGENCY_PREPARATION 11
+#define ST_EMERGENCY_RELIEF 12
+#define ST_EMERGENCY_SUPPORT 13
+#define ST_ENVIRONMENTAL_CONSERVATION 14
+#define ST_FOOD_DRIVE 15
+#define ST_FITNESS_CAMPAIGN 16
+#define ST_HOMELESS_ASSISTANCE 17
+#define ST_INTERPRETTING 18
+#define ST_LETTER_WRITING 19
+#define ST_MANPOWER 20
+#define ST_OTHER 21
+#define ST_TROOP_SUPPORT 22
+#define ST_VETERAN_ASSISSTANCE 23

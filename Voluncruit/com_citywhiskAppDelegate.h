@@ -11,5 +11,6 @@
 @interface com_citywhiskAppDelegate : UIResponder <UIApplicationDelegate>
 
 @property (strong, nonatomic) UIWindow *window;
+@property (nonatomic, assign) int userID;
 
 @end
